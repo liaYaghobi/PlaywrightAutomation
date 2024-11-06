@@ -1,0 +1,31 @@
+{
+  "name": "",
+  "isOrdered": true,
+  "folders": {
+    "playwright-report": {
+      "name": "playwright-report",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "test-results": {
+      "name": "test-results",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "tests": {
+      "name": "tests",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "tests-examples": {
+      "name": "tests-examples",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    }
+  },
+  "files": {}
+}
